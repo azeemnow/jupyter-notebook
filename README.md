@@ -2,7 +2,11 @@
 A collection of Jupyter Notebooks focused on highlighting analytics and visualizations on various security projects.
 
 
+
 # [Project 1: Cobalt Strike Hunting Dataset](https://github.com) 
+![Cobalt Strike Hunting Dataset](https://github.com/azeemnow/jupyter-notebook/blob/main/Jupyter_Notebook_CS_Image.png?raw=true)
+
+
 | [Part 1-A](https://github.com/azeemnow/jupyter-notebook/blob/main/Jupyter_Notebook_Cobalt_Strike_Servers_1-A.ipynb) |
 | [Part 1-B](https://github.com/azeemnow/jupyter-notebook/blob/main/Jupyter_Notebook_Cobalt_Strike_Servers_1-B.ipynb) |
 | [Part 1-C](https://github.com/azeemnow/jupyter-notebook/blob/main/Jupyter_Notebook_Cobalt_Strike_Servers_1-C.ipynb) |
