@@ -3,7 +3,7 @@ A collection of Jupyter Notebooks focused on highlighting analytics and visualiz
 
 
 
-# [Project 1: Cobalt Strike Hunting Dataset](https://github.com) 
+# [Project 1: Cobalt Strike Hunting Dataset](https://github.com/azeemnow/jupyter-notebook) 
 ![Cobalt Strike Hunting Dataset](https://github.com/azeemnow/jupyter-notebook/blob/main/Jupyter_Notebook_CS_Image.png?raw=true)
 
 
@@ -20,3 +20,13 @@ A collection of Jupyter Notebooks focused on highlighting analytics and visualiz
 * The reason for several parts is because a side goal of this project was to document the entire process of using Jupyter Notebook so someone who is just getting started with Jupyter Notebook can find it helpful. 
 * *If you are just interested in seeing only the final results of the Notebook, please download and run the last part (**[E](https://github.com/azeemnow/jupyter-notebook/blob/main/Jupyter_Notebook_Cobalt_Strike_Servers_1-E_updated.ipynb)**) in Jupyter.* 
 
+
+
+# [Project 2: Proxy Logs Hunt](https://github.com/azeemnow/jupyter-notebook) 
+![Proxy Log Hunt](https://github.com/azeemnow/jupyter-notebook/blob/main/proxy_log_hunt_correlation.PNG?raw=true)
+
+
+
+
+| [Part 1-A](https://github.com/azeemnow/jupyter-notebook/blob/main/Jupyter_Notebook_Proxy_Logs_Hunt_2-A.ipynb) |
+| [Part 1-A HTML Version](https://github.com/azeemnow/jupyter-notebook/blob/main/Jupyter_Notebook_Proxy_Logs_Hunt_2-A.html) |
