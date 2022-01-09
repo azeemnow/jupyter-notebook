@@ -28,5 +28,5 @@ A collection of Jupyter Notebooks focused on highlighting analytics and visualiz
 
 
 
-| [Part 1-A](https://github.com/azeemnow/jupyter-notebook/blob/main/Jupyter_Notebook_Proxy_Logs_Hunt_2-A.ipynb) |
-| [Part 1-A HTML Version](https://github.com/azeemnow/jupyter-notebook/blob/main/Jupyter_Notebook_Proxy_Logs_Hunt_2-A.html) |
+| [Project 2-A -- ipyynb file](https://github.com/azeemnow/jupyter-notebook/blob/main/Jupyter_Notebook_Proxy_Logs_Hunt_2-A.ipynb) |
+| [Project 2-A -- Interactive Web Version](https://htmlpreview.github.io/?https://raw.githubusercontent.com/azeemnow/jupyter-notebook/main/Jupyter_Notebook_Proxy_Logs_Hunt_2-A.html) |
