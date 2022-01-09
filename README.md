@@ -22,7 +22,7 @@ A collection of Jupyter Notebooks focused on highlighting analytics and visualiz
 
 
 
-# [Project 2: Proxy Logs Hunt](https://github.com/azeemnow/jupyter-notebook) 
+# [Project 2: Hunting Web Proxy Logs](https://github.com/azeemnow/jupyter-notebook) 
 ![Proxy Log Hunt](https://github.com/azeemnow/jupyter-notebook/blob/main/proxy_log_hunt_correlation.PNG?raw=true)
 
 
